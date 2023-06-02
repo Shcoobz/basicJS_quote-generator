@@ -1,6 +1,7 @@
 // TODO: fix right icon position: always with last word, not next line
 // TODO: add more buttons: fb, gmail?
 // TODO: change quotes API
+// TODO: change favicon
 
 const quoteContainer = document.getElementById('quote-container');
 const quoteText = document.getElementById('quote');
