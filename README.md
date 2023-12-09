@@ -1,5 +1,3 @@
-# quote-generator
-
 # Quote Generator
 
 ![Quote Generator](img/screenshot.png)
@@ -11,8 +9,7 @@ This is a simple web application that generates random quotes and allows users t
 
 ## Table of Contents
 
-- [quote-generator](#quote-generator)
-- [Quote Generator](#quote-generator-1)
+- [Quote Generator](#quote-generator)
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Features](#features)
