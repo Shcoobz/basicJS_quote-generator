@@ -1,4 +1,4 @@
-# Quote Generator
+# [LIVE DEMO](https://shcoobz.github.io/quote-generator/) -> Quote Generator
 
 ![Quote Generator](img/screenshot.png)
 
@@ -9,7 +9,7 @@ This is a simple web application that generates random quotes and allows users t
 
 ## Table of Contents
 
-- [Quote Generator](#quote-generator)
+- [LIVE DEMO -\> Quote Generator](#live-demo---quote-generator)
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Features](#features)
@@ -43,9 +43,9 @@ This project is a single-page web application that retrieves random quotes from 
 
 Open index.html in your browser to use the application.
 
-Click the "New Quote" button to generate a new random quote.
+1. Click the "New Quote" button to generate a new random quote.
 
-Click the Twitter icon to share the current quote on Twitter.
+2. Click the Twitter icon to share the current quote on Twitter.
 
 ## Contributing
 
