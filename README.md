@@ -1,6 +1,6 @@
-# Quote Generator -> [LIVE DEMO](https://shcoobz.github.io/quote-generator/)
+# basicJS_Quote Generator: [LIVE DEMO](https://shcoobz.github.io/basicJS_quote-generator/)
 
-![Quote Generator](img/quote-generator.png)
+![Quote Generator](img/basicJS_quote-generator.png)
 
 ## Summary
 
