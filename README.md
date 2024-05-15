@@ -41,3 +41,5 @@ Crafted to provide a smooth experience on desktops, tablets, and mobile phones, 
 ---
 
 _Note: This document provides an overview of Quote Generator. For detailed instructions and more information, please refer to the source code documentation._
+
+_This project has been enhanced and converted into a React-based application, which can be viewed [here](https://github.com/Shcoobz/react_quote-generator/). The React version integrates more advanced state management and component-based architecture for improved maintainability and scalability._
